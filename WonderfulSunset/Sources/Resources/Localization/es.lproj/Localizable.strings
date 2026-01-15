@@ -1,0 +1,158 @@
+/* Countdown Prefix */
+"Countdown_Prefix" = "Hora dorada en";
+
+/* Score High Text */
+"Score_High_Text" = "Se espera un atardecer intenso";
+
+/* Feedback Flip 1 */
+"Feedback_Flip_1" = "Demasiadas nubes bajas";
+
+/* Feedback Success */
+"Feedback_Success" = "¡Gracias! El algoritmo aprende";
+
+/* Perfect Feedback */
+"Feedback_Perfect" = "Impresionante";
+
+/* Good Feedback */
+"Feedback_Good" = "Bueno";
+
+/* Flipped Feedback */
+"Feedback_Flipped" = "Inexacto";
+
+/* Low Cloud Block */
+"LowCloud_Block" = "Las nubes bajas lo bloquearon";
+
+/* Haze Issue */
+"Haze_Issue" = "Neblina o mala calidad del aire";
+
+/* No Color */
+"No_Color" = "Sin nubes, solo cielo despejado";
+
+/* Time Error */
+"Time_Error" = "El tiempo no cuadraba";
+
+/* Deep Dive Title */
+"Deep_Dive_Title" = "Análisis Profundo";
+
+/* Cloud Analysis Title */
+"Cloud_Analysis_Title" = "Análisis de Nubes";
+
+/* High Cloud Title */
+"High_Cloud_Title" = "Nubes Altas";
+
+/* Mid Cloud Title */
+"Mid_Cloud_Title" = "Nubes Medias";
+
+/* Low Cloud Title */
+"Low_Cloud_Title" = "Nubes Bajas";
+
+/* High Cloud Description */
+"High_Cloud_Description" = "Las nubes altas son el lienzo del atardecer, cuanto más altas, más vibrantes los colores.";
+
+/* Mid Cloud Description */
+"Mid_Cloud_Description" = "Las nubes medias pueden reflejar y dispersar la luz solar, creando capas de color ricas.";
+
+/* Low Cloud Description */
+"Low_Cloud_Description" = "Demasiadas nubes bajas pueden bloquear la luz solar, afectando la experiencia de observación.";
+
+/* Special Phenomena Title */
+"Special_Phenomena_Title" = "Predicción de Fenómenos Especiales";
+
+/* Afterglow Title */
+"Afterglow_Title" = "Resplandor";
+
+/* Tyndall Title */
+"Tyndall_Title" = "Efecto Tyndall";
+
+/* Viewing Direction Title */
+"Viewing_Direction_Title" = "Dirección de Visualización";
+
+/* AR Guide Button */
+"AR_Guide_Button" = "Guía AR";
+
+/* Calendar Title */
+"Calendar_Title" = "Calendario de Atardeceres";
+
+/* Notification Permission Banner */
+"Notification_Permission_Banner" = "Habilita las notificaciones para no perder ninguna oportunidad de atardecer";
+
+/* Allow Button */
+"Allow_Button" = "Permitir";
+
+/* Sunset Time Label */
+"Sunset_Time_Label" = "Hora del Atardecer";
+
+/* Lab Feedback Title */
+"Lab_Feedback_Title" = "Laboratorio / Retroalimentación";
+
+/* Feedback Question */
+"Feedback_Question" = "¿Preciso?";
+
+/* Submit Feedback Button */
+"Submit_Feedback_Button" = "Enviar Retroalimentación";
+
+/* Select Feedback Type */
+"Select_Feedback_Type" = "Por favor, seleccione el tipo de retroalimentación";
+
+/* Select Specific Reason */
+"Select_Specific_Reason" = "Por favor, seleccione la razón específica";
+
+/* Cannot Get Location */
+"Cannot_Get_Location" = "No se puede obtener información de ubicación";
+
+/* Please Log In To iCloud */
+"Please_Log_In_To_iCloud" = "Inicia sesión en iCloud para participar en la retroalimentación de la comunidad";
+
+/* Open Settings Button */
+"Open_Settings_Button" = "Abrir Configuración";
+
+/* Data Update Delayed */
+"Data_Update_Delayed" = "Actualización de datos retrasada, mostrando la última predicción";
+
+/* Insufficient Weather Data */
+"Insufficient_Weather_Data" = "Datos meteorológicos insuficientes";
+
+/* Failed To Fetch Weather Data */
+"Failed_To_Fetch_Weather_Data" = "Error al obtener datos meteorológicos";
+
+/* Location Error */
+"Location_Error" = "Error de ubicación";
+
+/* Location Access Denied */
+"Location_Access_Denied" = "Acceso a ubicación denegado. Usando ubicación predeterminada: París";
+
+/* Golden Hour Passed */
+"Golden_Hour_Passed" = "La hora dorada ha pasado";
+
+/* Calculating */
+"Calculating" = "Calculando...";
+
+/* Loading Cloud Data */
+"Loading_Cloud_Data" = "Cargando datos de nubes...";
+
+/* Loading Forecast Data */
+"Loading_Forecast_Data" = "Cargando datos de predicción...";
+
+/* Retry Button */
+"Retry_Button" = "Reintentar";
+
+/* Home Title */
+"Home_Title" = "Wonderful Sunset";
+
+/* Golden Hour Label */
+"Golden_Hour_Label" = "Hora Dorada";
+
+/* Sunset Label */
+"Sunset_Label" = "Atardecer";
+
+/* Blue Hour Label */
+"Blue_Hour_Label" = "Hora Azul";
+
+/* High Score Description */
+"High_Score_Description" = "Alta probabilidad de 'nubes de fuego' hoy, se recomienda preparar la cámara.";
+
+/* Medium Score Description */
+"Medium_Score_Description" = "Nubes moderadas, tal vez un encuentro suave de color rosa.";
+
+/* Low Score Description */
+"Low_Score_Description" = "El cielo está un poco apagado, ideal para esperar la próxima sorpresa en interiores.";

@@ -1,0 +1,158 @@
+/* Countdown Prefix */
+"Countdown_Prefix" = "Heure dorée dans";
+
+/* Score High Text */
+"Score_High_Text" = "Coucher de soleil intense prévu";
+
+/* Feedback Flip 1 */
+"Feedback_Flip_1" = "Trop de nuages bas";
+
+/* Feedback Success */
+"Feedback_Success" = "Merci ! L'algorithme apprend";
+
+/* Perfect Feedback */
+"Feedback_Perfect" = "Magnifique";
+
+/* Good Feedback */
+"Feedback_Good" = "Bon";
+
+/* Flipped Feedback */
+"Feedback_Flipped" = "Inexact";
+
+/* Low Cloud Block */
+"LowCloud_Block" = "Les nuages bas l'ont bloqué";
+
+/* Haze Issue */
+"Haze_Issue" = "Brouillard ou mauvaise qualité de l'air";
+
+/* No Color */
+"No_Color" = "Pas de nuages, juste un ciel clair";
+
+/* Time Error */
+"Time_Error" = "Le timing était faux";
+
+/* Deep Dive Title */
+"Deep_Dive_Title" = "Analyse Approfondie";
+
+/* Cloud Analysis Title */
+"Cloud_Analysis_Title" = "Analyse des Nuages";
+
+/* High Cloud Title */
+"High_Cloud_Title" = "Nuages Hauts";
+
+/* Mid Cloud Title */
+"Mid_Cloud_Title" = "Nuages Moyens";
+
+/* Low Cloud Title */
+"Low_Cloud_Title" = "Nuages Bas";
+
+/* High Cloud Description */
+"High_Cloud_Description" = "Les nuages haut sont la toile du coucher de soleil, plus ils sont hauts, plus les couleurs sont vibrantes.";
+
+/* Mid Cloud Description */
+"Mid_Cloud_Description" = "Les nuages moyens peuvent refléter et disperser la lumière solaire, créant des couches de couleurs riches.";
+
+/* Low Cloud Description */
+"Low_Cloud_Description" = "Trop de nuages bas peuvent bloquer la lumière solaire, affectant l'expérience de visionnage.";
+
+/* Special Phenomena Title */
+"Special_Phenomena_Title" = "Prédiction de Phénomènes Spéciaux";
+
+/* Afterglow Title */
+"Afterglow_Title" = "Réverbère";
+
+/* Tyndall Title */
+"Tyndall_Title" = "Effet Tyndall";
+
+/* Viewing Direction Title */
+"Viewing_Direction_Title" = "Direction de Visualisation";
+
+/* AR Guide Button */
+"AR_Guide_Button" = "Guide AR";
+
+/* Calendar Title */
+"Calendar_Title" = "Calendrier des Couchers de Soleil";
+
+/* Notification Permission Banner */
+"Notification_Permission_Banner" = "Activez les notifications pour ne manquer aucune opportunité de coucher de soleil";
+
+/* Allow Button */
+"Allow_Button" = "Autoriser";
+
+/* Sunset Time Label */
+"Sunset_Time_Label" = "Heure du Coucher de Soleil";
+
+/* Lab Feedback Title */
+"Lab_Feedback_Title" = "Laboratoire / Feedback";
+
+/* Feedback Question */
+"Feedback_Question" = "Précis ?";
+
+/* Submit Feedback Button */
+"Submit_Feedback_Button" = "Soumettre le Feedback";
+
+/* Select Feedback Type */
+"Select_Feedback_Type" = "Veuillez sélectionner le type de feedback";
+
+/* Select Specific Reason */
+"Select_Specific_Reason" = "Veuillez sélectionner la raison spécifique";
+
+/* Cannot Get Location */
+"Cannot_Get_Location" = "Impossible d'obtenir des informations de localisation";
+
+/* Please Log In To iCloud */
+"Please_Log_In_To_iCloud" = "Connectez-vous à iCloud pour participer au feedback communautaire";
+
+/* Open Settings Button */
+"Open_Settings_Button" = "Ouvrir les Paramètres";
+
+/* Data Update Delayed */
+"Data_Update_Delayed" = "Mise à jour des données retardée, affichage de la dernière prédiction";
+
+/* Insufficient Weather Data */
+"Insufficient_Weather_Data" = "Données météorologiques insuffisantes";
+
+/* Failed To Fetch Weather Data */
+"Failed_To_Fetch_Weather_Data" = "Échec de la récupération des données météorologiques";
+
+/* Location Error */
+"Location_Error" = "Erreur de localisation";
+
+/* Location Access Denied */
+"Location_Access_Denied" = "Accès à la localisation refusé. Utilisation de la position par défaut : Paris";
+
+/* Golden Hour Passed */
+"Golden_Hour_Passed" = "L'heure dorée est passée";
+
+/* Calculating */
+"Calculating" = "Calcul en cours...";
+
+/* Loading Cloud Data */
+"Loading_Cloud_Data" = "Chargement des données nuageuses...";
+
+/* Loading Forecast Data */
+"Loading_Forecast_Data" = "Chargement des données de prévision...";
+
+/* Retry Button */
+"Retry_Button" = "Réessayer";
+
+/* Home Title */
+"Home_Title" = "Wonderful Sunset";
+
+/* Golden Hour Label */
+"Golden_Hour_Label" = "Heure Dorée";
+
+/* Sunset Label */
+"Sunset_Label" = "Coucher de Soleil";
+
+/* Blue Hour Label */
+"Blue_Hour_Label" = "Heure Bleue";
+
+/* High Score Description */
+"High_Score_Description" = "Haute probabilité de \"nuages de feu\" aujourd'hui, il est recommandé de préparer votre appareil photo.";
+
+/* Medium Score Description */
+"Medium_Score_Description" = "Nuages modérés, peut-être une rencontre douce en rose.";
+
+/* Low Score Description */
+"Low_Score_Description" = "Le ciel est un peu terne, parfait pour attendre la prochaine surprise à l'intérieur.";

@@ -1,0 +1,158 @@
+/* Countdown Prefix */
+"Countdown_Prefix" = "黄金時間まであと";
+
+/* Score High Text */
+"Score_High_Text" = "素晴らしい夕焼けが期待できます";
+
+/* Feedback Flip 1 */
+"Feedback_Flip_1" = "低雲が多すぎる";
+
+/* Feedback Success */
+"Feedback_Success" = "ありがとうございます。学習中です";
+
+/* Perfect Feedback */
+"Feedback_Perfect" = "最高";
+
+/* Good Feedback */
+"Feedback_Good" = "良い";
+
+/* Flipped Feedback */
+"Feedback_Flipped" = "不正確";
+
+/* Low Cloud Block */
+"LowCloud_Block" = "低雲が太陽を遮った";
+
+/* Haze Issue */
+"Haze_Issue" = "煙やAQIが悪い";
+
+/* No Color */
+"No_Color" = "雲がなく、ただの晴れ空";
+
+/* Time Error */
+"Time_Error" = "タイミングがずれている";
+
+/* Deep Dive Title */
+"Deep_Dive_Title" = "詳細分析";
+
+/* Cloud Analysis Title */
+"Cloud_Analysis_Title" = "雲分析";
+
+/* High Cloud Title */
+"High_Cloud_Title" = "高層雲";
+
+/* Mid Cloud Title */
+"Mid_Cloud_Title" = "中層雲";
+
+/* Low Cloud Title */
+"Low_Cloud_Title" = "低層雲";
+
+/* High Cloud Description */
+"High_Cloud_Description" = "高層雲は夕焼けのキャンバスで、高いほど色が鮮やかになります。";
+
+/* Mid Cloud Description */
+"Mid_Cloud_Description" = "中層雲は反射と散乱で豊かな色層を作ります。";
+
+/* Low Cloud Description */
+"Low_Cloud_Description" = "低層雲が多すぎると、夕焼けが遮られます。";
+
+/* Special Phenomena Title */
+"Special_Phenomena_Title" = "特殊現象予測";
+
+/* Afterglow Title */
+"Afterglow_Title" = "残照";
+
+/* Tyndall Title */
+"Tyndall_Title" = "チンドール効果";
+
+/* Viewing Direction Title */
+"Viewing_Direction_Title" = "鑑賞方向";
+
+/* AR Guide Button */
+"AR_Guide_Button" = "ARガイド";
+
+/* Calendar Title */
+"Calendar_Title" = "夕焼けカレンダー";
+
+/* Notification Permission Banner */
+"Notification_Permission_Banner" = "通知を有効にして、夕焼けの機会を逃さない";
+
+/* Allow Button */
+"Allow_Button" = "許可";
+
+/* Sunset Time Label */
+"Sunset_Time_Label" = "夕焼け時刻";
+
+/* Lab Feedback Title */
+"Lab_Feedback_Title" = "ラボ / フィードバック";
+
+/* Feedback Question */
+"Feedback_Question" = "正確ですか？";
+
+/* Submit Feedback Button */
+"Submit_Feedback_Button" = "フィードバックを送信";
+
+/* Select Feedback Type */
+"Select_Feedback_Type" = "フィードバックの種類を選択してください";
+
+/* Select Specific Reason */
+"Select_Specific_Reason" = "具体的な理由を選択してください";
+
+/* Cannot Get Location */
+"Cannot_Get_Location" = "位置情報を取得できません";
+
+/* Please Log In To iCloud */
+"Please_Log_In_To_iCloud" = "コミュニティフィードバックに参加するにはiCloudにログインしてください";
+
+/* Open Settings Button */
+"Open_Settings_Button" = "設定を開く";
+
+/* Data Update Delayed */
+"Data_Update_Delayed" = "データ更新が遅れています。前回の予測を表示しています";
+
+/* Insufficient Weather Data */
+"Insufficient_Weather_Data" = "気象データが不足しています";
+
+/* Failed To Fetch Weather Data */
+"Failed_To_Fetch_Weather_Data" = "気象データの取得に失敗しました";
+
+/* Location Error */
+"Location_Error" = "位置エラー";
+
+/* Location Access Denied */
+"Location_Access_Denied" = "位置アクセスが拒否されました。デフォルトの場所：パリを使用しています";
+
+/* Golden Hour Passed */
+"Golden_Hour_Passed" = "ゴールデンアワーは過ぎました";
+
+/* Calculating */
+"Calculating" = "計算中...";
+
+/* Loading Cloud Data */
+"Loading_Cloud_Data" = "雲データを読み込んでいます...";
+
+/* Loading Forecast Data */
+"Loading_Forecast_Data" = "予報データを読み込んでいます...";
+
+/* Retry Button */
+"Retry_Button" = "再試行";
+
+/* Home Title */
+"Home_Title" = "Wonderful Sunset";
+
+/* Golden Hour Label */
+"Golden_Hour_Label" = "ゴールデンアワー";
+
+/* Sunset Label */
+"Sunset_Label" = "夕焼け";
+
+/* Blue Hour Label */
+"Blue_Hour_Label" = "ブルーアワー";
+
+/* High Score Description */
+"High_Score_Description" = "今日は「夕焼け雲」が出現する可能性が高く、カメラの準備をお勧めします。";
+
+/* Medium Score Description */
+"Medium_Score_Description" = "雲量が適度で、優しいピンクの出会いがあるかもしれません。";
+
+/* Low Score Description */
+"Low_Score_Description" = "空がやや暗く、室内で次の驚きを待つのに適しています。";

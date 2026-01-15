@@ -1,0 +1,158 @@
+/* Countdown Prefix */
+"Countdown_Prefix" = "距离黄金时刻还有";
+
+/* Score High Text */
+"Score_High_Text" = "今日大概率出现“火烧云”";
+
+/* Feedback Flip 1 */
+"Feedback_Flip_1" = "低云太多";
+
+/* Feedback Success */
+"Feedback_Success" = "感谢反馈，算法正在学习";
+
+/* Perfect Feedback */
+"Feedback_Perfect" = "绝美";
+
+/* Good Feedback */
+"Feedback_Good" = "名不虚传";
+
+/* Flipped Feedback */
+"Feedback_Flipped" = "并不准";
+
+/* Low Cloud Block */
+"LowCloud_Block" = "低云挡住了阳光";
+
+/* Haze Issue */
+"Haze_Issue" = "空气太脏/灰蒙蒙";
+
+/* No Color */
+"No_Color" = "云太少/没颜色";
+
+/* Time Error */
+"Time_Error" = "时间对不上";
+
+/* Deep Dive Title */
+"Deep_Dive_Title" = "深度分析";
+
+/* Cloud Analysis Title */
+"Cloud_Analysis_Title" = "云层分析";
+
+/* High Cloud Title */
+"High_Cloud_Title" = "高云";
+
+/* Mid Cloud Title */
+"Mid_Cloud_Title" = "中云";
+
+/* Low Cloud Title */
+"Low_Cloud_Title" = "低云";
+
+/* High Cloud Description */
+"High_Cloud_Description" = "高层云是彩霞的画布，越高颜色越鲜艳。";
+
+/* Mid Cloud Description */
+"Mid_Cloud_Description" = "中层云可以反射和散射阳光，创造出丰富的色彩层次。";
+
+/* Low Cloud Description */
+"Low_Cloud_Description" = "低层云过多会遮挡阳光，影响晚霞的观赏效果。";
+
+/* Special Phenomena Title */
+"Special_Phenomena_Title" = "特殊现象预测";
+
+/* Afterglow Title */
+"Afterglow_Title" = "反霞";
+
+/* Tyndall Title */
+"Tyndall_Title" = "丁达尔效应";
+
+/* Viewing Direction Title */
+"Viewing_Direction_Title" = "观赏方位";
+
+/* AR Guide Button */
+"AR_Guide_Button" = "实景引导";
+
+/* Calendar Title */
+"Calendar_Title" = "追霞日历";
+
+/* Notification Permission Banner */
+"Notification_Permission_Banner" = "启用通知，不错过任何一次晚霞机会";
+
+/* Allow Button */
+"Allow_Button" = "允许";
+
+/* Sunset Time Label */
+"Sunset_Time_Label" = "日落时间";
+
+/* Lab Feedback Title */
+"Lab_Feedback_Title" = "实验室 / 反馈";
+
+/* Feedback Question */
+"Feedback_Question" = "准吗？";
+
+/* Submit Feedback Button */
+"Submit_Feedback_Button" = "提交反馈";
+
+/* Select Feedback Type */
+"Select_Feedback_Type" = "请选择反馈类型";
+
+/* Select Specific Reason */
+"Select_Specific_Reason" = "请选择具体原因";
+
+/* Cannot Get Location */
+"Cannot_Get_Location" = "无法获取位置信息";
+
+/* Please Log In To iCloud */
+"Please_Log_In_To_iCloud" = "请登录 iCloud 以参与社区反馈";
+
+/* Open Settings Button */
+"Open_Settings_Button" = "打开设置";
+
+/* Data Update Delayed */
+"Data_Update_Delayed" = "数据更新延迟，显示为上次预测";
+
+/* Insufficient Weather Data */
+"Insufficient_Weather_Data" = "天气数据不足，无法计算";
+
+/* Failed To Fetch Weather Data */
+"Failed_To_Fetch_Weather_Data" = "获取天气数据失败";
+
+/* Location Error */
+"Location_Error" = "位置错误";
+
+/* Location Access Denied */
+"Location_Access_Denied" = "位置访问被拒绝，使用默认位置：巴黎";
+
+/* Golden Hour Passed */
+"Golden_Hour_Passed" = "黄金时刻已过";
+
+/* Calculating */
+"Calculating" = "计算中...";
+
+/* Loading Cloud Data */
+"Loading_Cloud_Data" = "加载云层数据...";
+
+/* Loading Forecast Data */
+"Loading_Forecast_Data" = "加载预报数据...";
+
+/* Retry Button */
+"Retry_Button" = "重试";
+
+/* Home Title */
+"Home_Title" = "Wonderful Sunset";
+
+/* Golden Hour Label */
+"Golden_Hour_Label" = "黄金时刻";
+
+/* Sunset Label */
+"Sunset_Label" = "日落时刻";
+
+/* Blue Hour Label */
+"Blue_Hour_Label" = "魔幻时刻";
+
+/* High Score Description */
+"High_Score_Description" = "今日大概率出现‘火烧云’，建议准备好相机。";
+
+/* Medium Score Description */
+"Medium_Score_Description" = "云层适中，或许会有温柔的粉色邂逅。";
+
+/* Low Score Description */
+"Low_Score_Description" = "天空稍显沉闷，适合在室内静候下一次惊喜。";

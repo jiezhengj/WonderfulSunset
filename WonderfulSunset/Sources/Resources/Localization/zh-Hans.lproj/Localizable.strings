@@ -1,0 +1,158 @@
+/* Countdown Prefix */
+"Countdown_Prefix" = "Golden Hour in";
+
+/* Score High Text */
+"Score_High_Text" = "Intense sunset expected today.";
+
+/* Feedback Flip 1 */
+"Feedback_Flip_1" = "Too many low clouds";
+
+/* Feedback Success */
+"Feedback_Success" = "Thanks! Algorithm is learning";
+
+/* Perfect Feedback */
+"Feedback_Perfect" = "Stunning";
+
+/* Good Feedback */
+"Feedback_Good" = "Good";
+
+/* Flipped Feedback */
+"Feedback_Flipped" = "Not Accurate";
+
+/* Low Cloud Block */
+"LowCloud_Block" = "Low clouds blocked it";
+
+/* Haze Issue */
+"Haze_Issue" = "Haze or poor AQI";
+
+/* No Color */
+"No_Color" = "No clouds, just clear sky";
+
+/* Time Error */
+"Time_Error" = "The timing was off";
+
+/* Deep Dive Title */
+"Deep_Dive_Title" = "Deep Dive";
+
+/* Cloud Analysis Title */
+"Cloud_Analysis_Title" = "Cloud Analysis";
+
+/* High Cloud Title */
+"High_Cloud_Title" = "High Cloud";
+
+/* Mid Cloud Title */
+"Mid_Cloud_Title" = "Mid Cloud";
+
+/* Low Cloud Title */
+"Low_Cloud_Title" = "Low Cloud";
+
+/* High Cloud Description */
+"High_Cloud_Description" = "High clouds are the canvas for sunset, the higher the more vibrant the colors.";
+
+/* Mid Cloud Description */
+"Mid_Cloud_Description" = "Mid-level clouds can reflect and scatter sunlight, creating rich color layers.";
+
+/* Low Cloud Description */
+"Low_Cloud_Description" = "Too many low clouds can block sunlight, affecting the viewing experience.";
+
+/* Special Phenomena Title */
+"Special_Phenomena_Title" = "Special Phenomena Prediction";
+
+/* Afterglow Title */
+"Afterglow_Title" = "Afterglow";
+
+/* Tyndall Title */
+"Tyndall_Title" = "Tyndall Effect";
+
+/* Viewing Direction Title */
+"Viewing_Direction_Title" = "Viewing Direction";
+
+/* AR Guide Button */
+"AR_Guide_Button" = "AR Guide";
+
+/* Calendar Title */
+"Calendar_Title" = "Sunset Calendar";
+
+/* Notification Permission Banner */
+"Notification_Permission_Banner" = "Enable notifications to not miss any sunset opportunities";
+
+/* Allow Button */
+"Allow_Button" = "Allow";
+
+/* Sunset Time Label */
+"Sunset_Time_Label" = "Sunset Time";
+
+/* Lab Feedback Title */
+"Lab_Feedback_Title" = "Lab / Feedback";
+
+/* Feedback Question */
+"Feedback_Question" = "Accurate?";
+
+/* Submit Feedback Button */
+"Submit_Feedback_Button" = "Submit Feedback";
+
+/* Select Feedback Type */
+"Select_Feedback_Type" = "Please select feedback type";
+
+/* Select Specific Reason */
+"Select_Specific_Reason" = "Please select specific reason";
+
+/* Cannot Get Location */
+"Cannot_Get_Location" = "Cannot get location information";
+
+/* Please Log In To iCloud */
+"Please_Log_In_To_iCloud" = "Please log in to iCloud to participate in community feedback";
+
+/* Open Settings Button */
+"Open_Settings_Button" = "Open Settings";
+
+/* Data Update Delayed */
+"Data_Update_Delayed" = "Data update delayed, showing last prediction";
+
+/* Insufficient Weather Data */
+"Insufficient_Weather_Data" = "Insufficient weather data for calculation";
+
+/* Failed To Fetch Weather Data */
+"Failed_To_Fetch_Weather_Data" = "Failed to fetch weather data";
+
+/* Location Error */
+"Location_Error" = "Location error";
+
+/* Location Access Denied */
+"Location_Access_Denied" = "Location access denied. Using default location: Paris";
+
+/* Golden Hour Passed */
+"Golden_Hour_Passed" = "Golden hour has passed";
+
+/* Calculating */
+"Calculating" = "Calculating...";
+
+/* Loading Cloud Data */
+"Loading_Cloud_Data" = "Loading cloud data...";
+
+/* Loading Forecast Data */
+"Loading_Forecast_Data" = "Loading forecast data...";
+
+/* Retry Button */
+"Retry_Button" = "Retry";
+
+/* Home Title */
+"Home_Title" = "Wonderful Sunset";
+
+/* Golden Hour Label */
+"Golden_Hour_Label" = "Golden Hour";
+
+/* Sunset Label */
+"Sunset_Label" = "Sunset";
+
+/* Blue Hour Label */
+"Blue_Hour_Label" = "Blue Hour";
+
+/* High Score Description */
+"High_Score_Description" = "High probability of 'fire clouds', suggest preparing your camera.";
+
+/* Medium Score Description */
+"Medium_Score_Description" = "Moderate clouds, maybe a gentle pink encounter.";
+
+/* Low Score Description */
+"Low_Score_Description" = "The sky is a bit dull, suitable for waiting indoors for the next surprise.";
